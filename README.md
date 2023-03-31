@@ -2,11 +2,11 @@
 This project was carried out with the goal of creating a database for Admissions Offices. Originally, the plan was to create a functional database for one admissions office, but with creating two extra entities this database has expanded into being useful for multiple universities trying to admit their potential first year students.
 
 ## Authors
-- [@dra27013](https://github.com/dra27013)
-- [@cwon-kang](http://github.com/cwon-kang)
-- [@spencergordon16](https://github.com/SpencerGordon16) 
-- [@erinodea](https://github.com/erinodea/SQLgroupProj1)
-- [@kmj07215](https://github.com/kmj07215) 
+- David Adams [@dra27013](https://github.com/dra27013)
+- Olivia Kang [@cwon-kang](http://github.com/cwon-kang)
+- Spencer Gordon [@spencergordon16](https://github.com/SpencerGordon16) 
+- Erin Odea [@erinodea](https://github.com/erinodea/SQLgroupProj1)
+- Kenny Johnson [@kmj07215](https://github.com/kmj07215) 
 
 ## Data Model
 ![Logo](https://raw.githubusercontent.com/cwon-kang/armyGreen/main/dm.png)
