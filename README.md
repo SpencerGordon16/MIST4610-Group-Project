@@ -2,11 +2,11 @@
 This project was carried out with the goal of creating a database for Admissions Offices. Originally, the plan was to create a functional database for one admissions office, but with creating two extra entities this database has expanded into being useful for multiple universities trying to admit their potential first year students.
 
 ## Authors
-- David Adams [@dra27013](https://github.com/dra27013)
-- Olivia Kang [@cwon-kang](http://github.com/cwon-kang)
-- Spencer Gordon [@spencergordon16](https://github.com/SpencerGordon16) 
-- Erin Odea [@erinodea](https://github.com/erinodea/SQLgroupProj1)
-- Kenny Johnson [@kmj07215](https://github.com/kmj07215) 
+-[@dra27013](https://github.com/dra27013)
+-[@cwon-kang](http://github.com/cwon-kang)
+-[@spencergordon16](https://github.com/SpencerGordon16) 
+-[@erinodea](https://github.com/erinodea/SQLgroupProj1)
+-[@kmj07215](https://github.com/kmj07215) 
 
 ## Data Model
 ![Logo](https://raw.githubusercontent.com/cwon-kang/armyGreen/main/dm.png)
@@ -27,7 +27,7 @@ The admissions data model contains ten key entities. Admissions office is relate
 
 
 ## Query 1:  What is the admission rate of schools that are in California?
-![Logo](https://github.com/SpencerGordon16/MIST4610-Group-Project/blob/main/Screenshot%202023-03-31%20123949.png?raw=true)
+![Logo](https://github.com/SpencerGordon16/MIST4610-Group-Project/blob/main/Screenshot%202023-03-31%20145616.png?raw=true) 
 
 Justification: This query can be used to find the admission rate of schools within a certain state, more specifically California. There are multiple Universities in this data model that are in the state of California school system with the name that includes “University of California”. Thus, this could be useful in comparing the admission rates of schools in different states.
 
